@@ -1,0 +1,653 @@
+36
+Fitting 4 folds for each of 20 candidates, totalling 80 fits
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+[Parallel(n_jobs=-1)]: Using backend LokyBackend with 24 concurrent workers.
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+[Parallel(n_jobs=-1)]: Done  74 out of  80 | elapsed:  2.1min remaining:   10.2s
+[Parallel(n_jobs=-1)]: Done  80 out of  80 | elapsed:  2.1min finished
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  21.7s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False, total=  19.7s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  27.2s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  15.8s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  28.3s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  27.5s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  12.8s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=  20.8s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True, total=  14.0s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False, total=  22.2s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  22.0s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  29.1s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False, total=  22.5s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total=  20.1s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  28.6s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False, total=  31.1s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  21.8s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False, total=  19.8s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False, total=  31.8s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  21.9s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False, total=  19.8s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False, total=  32.6s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total=  22.2s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  27.4s
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=False, total=  32.2s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  12.6s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  54.5s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True, total=  16.7s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  12.8s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  57.0s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True, total=  16.0s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True, total=   8.8s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  56.3s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True, total=  18.0s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  13.1s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  57.8s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=None, randomforestregressor__bootstrap=True, total=  16.7s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  16.3s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=  21.0s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True, total=  14.0s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  34.9s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=   2.3s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True, total=  46.8s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  27.3s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True, total=  17.7s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=   3.9s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True, total=  49.5s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False, total=  22.2s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True, total=  16.9s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  16.4s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=  21.0s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True, total=  13.9s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  35.7s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total=  22.0s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=False, total=  19.8s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=80, randomforestregressor__bootstrap=False, total=  27.4s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True, total=  16.5s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=200, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=90, randomforestregressor__bootstrap=False, total=  16.4s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=  20.8s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=30, randomforestregressor__bootstrap=True, total=  13.9s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  36.4s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=2, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total=   5.7s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True, total=  48.7s
+[CV] randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=800, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=False, total=  22.3s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=auto, randomforestregressor__max_depth=70, randomforestregressor__bootstrap=True, total=  16.8s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True, total=   8.7s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True, total=  24.0s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total=  57.9s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=   8.6s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=auto, randomforestregressor__max_depth=60, randomforestregressor__bootstrap=True, total=  50.2s
+[CV] randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=600, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=20, randomforestregressor__bootstrap=False, total=  35.2s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=10, randomforestregressor__bootstrap=True, total=   8.7s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True, total=  24.2s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total=  58.9s
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True, total=   9.0s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True, total=  24.0s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total= 1.0min
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+[CV] randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=400, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=4, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=40, randomforestregressor__bootstrap=True, total=   9.1s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=5, randomforestregressor__min_samples_leaf=1, randomforestregressor__max_features=sqrt, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=True, total=  24.1s
+[CV] randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False 
+[CV]  randomforestregressor__n_estimators=1000, randomforestregressor__min_samples_split=10, randomforestregressor__min_samples_leaf=2, randomforestregressor__max_features=auto, randomforestregressor__max_depth=50, randomforestregressor__bootstrap=False, total= 1.0min
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/utils/deprecation.py:58: DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead.
+  warnings.warn(msg, category=DeprecationWarning)
+/rigel/home/aaj2146/.conda/envs/myenv2/lib/python3.6/site-packages/sklearn/pipeline.py:267: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  self._final_estimator.fit(Xt, y, **fit_params)
