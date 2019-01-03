@@ -10,4 +10,7 @@ In this work we will generate probability distributions for the C and gamma hype
 For each task the top 500 or upper quartile by accuracy is filtered out and KDEs for C and gamma are fit on these data points. 
 A visualization of the KDEs is shown below:
 
-We can see that 
+![Alt Text](https://github.com/aaj2146/AutoML/raw/master/plots/Data_rbf_C.png)
+![Alt Text](https://github.com/aaj2146/AutoML/raw/master/plots/KDE_rbf_C.png)
+
+The key to note is that the bandwidth parameter has to be tuned to ensure that the KDE resembles the data it is being fit on.
